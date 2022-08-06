@@ -24,6 +24,6 @@ git clone https://github.com/Nisad-Hossain/NH_UID/
 
 cd NH_UID
 
-python nh_uid.py
+python NH_UID.py
 
 NOTE THIS IS FREE TOOLS FOR PUBLIC CLONEING ENJOY 😍
